@@ -2,6 +2,9 @@
 
 <table style="width:100%">
   <tr>
+    <th width="100%" colspan="5">Available version</th>
+  </tr>
+  <tr>
     <td width="20%" align="center"><b>2018.2</b></td>
     <td width="20%" align="center"><a href="">2018.1</a></td> 
     <td width="20%" align="center"><a href="">2017.4</a></td>
